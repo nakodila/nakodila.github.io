@@ -902,7 +902,7 @@
 		@include vendor('align-items', 'flex-end');
 		@include vendor('justify-content', 'space-between');
 		background-color:		_palette(accent2, bg);
-		background-attachment:	scroll,								fixed;
+		background-attachment:	fixed,								fixed;
 		background-image:		url('images/overlay.png'),			url('../../images/bg.jpg');
 		background-position:	top left,							top left;
 		background-repeat:		repeat,								no-repeat;
@@ -1166,7 +1166,7 @@
 		}
 
 		#header {
-			background-attachment:	scroll;
+			// background-attachment:	scroll;
 			background-size:		auto, cover;
 		}
 
@@ -1268,7 +1268,7 @@
 		/* Header */
 
 			#header {
-				background-attachment:	scroll;
+				// background-attachment:	scroll;
 				background-position:	top left,	center center;
 				background-size:		auto,		cover;
 				left: auto;
@@ -1291,7 +1291,7 @@
 		/* Footer */
 
 			#footer {
-				background-attachment:	scroll;
+				// background-attachment:	scroll;
 				background-color:		_palette(accent2, bg);
 				background-image:		url('images/overlay.png'),		url('../../images/bg.jpg');
 				background-position:	top left,						bottom center;
