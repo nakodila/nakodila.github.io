@@ -33,8 +33,11 @@ thinking
 Community Food and Juice, New York, NY
 October 2013 - November 2018
 ● Redesigned POS UI resulting in faster service and decreased order error
-#### Human Resources Manager 
-BTLOne, Moscow, Russia
-June 2004 - May 2005
-● Hired and trained over 100 people for five advertising projects for L’Oreal
-● Organized 3 professional-development events per year for up to 30 people
+#### Project Manager
+BTLOne Advertizing
+10/04 – 11/05, Moscow, Russia
+
+● Organized and managed six advertising projects for 3 leading L’Oreal brands: Maybelline, Garnier, L’Oreal, which lead to up to 30% sales increases 
+● Simultaneously lead three teams of 30 in-store product consultants 
+● Coordinated hiring, learning, uniform and promotional material production for up to three projects at once 
+
