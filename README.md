@@ -5,9 +5,9 @@
 #### Remember The List - (Rails, React, Redux)
 Fast and lightweight single-page task and time-management web app built with Ruby on Rails and
 React
-- Dynamic React component update via AJAX requests and JSON API save render time and
++ Dynamic React component update via AJAX requests and JSON API save render time and
 server traffic
-- Custom built back-end and front-end authentication utilizes BCrypt to protect user’s information
+* Custom built back-end and front-end authentication utilizes BCrypt to protect user’s information
 ● Easy maintenance and scalability with Ruby on Rails database architecture and querying
 ● Unidirectional flow of data and normalized state built with Redux ensures fast and reliable
 update of state
