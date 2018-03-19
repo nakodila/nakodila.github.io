@@ -30,11 +30,11 @@ and web development best practices
 thinking
 ### EXPERIENCE
 #### Assistant Manager  
+Community Food and Juice, New York, NY
 October 2013 - November 2018
-#### Community Food and Juice, New York, NY
 ● Redesigned POS UI resulting in faster service and decreased order error
 #### Human Resources Manager 
-June 2004 - May 2005
 BTLOne, Moscow, Russia
+June 2004 - May 2005
 ● Hired and trained over 100 people for five advertising projects for L’Oreal
 ● Organized 3 professional-development events per year for up to 30 people
