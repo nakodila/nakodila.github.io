@@ -2,7 +2,7 @@
 ### Software Engineer
 555 West 156th St, New York, NY 10032 (310) 498-5340 elenatalk@gmail.com
 ### ABOUT ME
-While I studied psychology at Columbia University. The topic of artificial intelligence and how a string of zeros and ones interpreted by a peace of inorganic matter can compete with human brain that programed it would not leave me alone. This burning question lead me to online programming courses on Udacity, MITx and Edx.org. When I realized that my job as a server was getting in the way of my exploration of programming I got into one of the best programming bootcamps in the country to speed up the process of making this exploration my career. I have experience building Web-applications using Ruby on Rails, Python, React, Redux, JavaScript, CSS/Sass, Bootstrap and Node-Webpack technologies.
+While I studied psychology at Columbia University. The topic of artificial intelligence and how a string of zeros and ones interpreted by a peace of inorganic matter can compete with human brain that programed it would not leave me alone. This burning question lead me to online programming courses on Udacity, MITx and Edx.org. When I realized that my job as a restaurant manager was getting in the way of my exploration of programming I got into one of the best programming bootcamps in the country to speed up the process of making this exploration my career. I have experience building Web-applications using Ruby on Rails, Python, React, Redux, JavaScript, CSS/Sass, Bootstrap and Node-Webpack technologies.
 ### SKILLS
 Ruby, JavaScript, React, Redux, jQuery, HTML, Webpack, RSpec,
 Rails, Python, Bootstrap, Git, SQL, CSS, Babel
